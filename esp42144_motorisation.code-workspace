@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "esp42144_motorisation",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
